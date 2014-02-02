@@ -1,4 +1,4 @@
 unity-docparser
 ===============
 
-Parse Unity's HTML docs into a .xml file, to be used in Visual Studio.
+Scrape Unity's HTML docs into a .xml file, to be used in Visual Studio. WIP.
